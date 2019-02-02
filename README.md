@@ -18,5 +18,6 @@ Nothing fancy. Just updates repositories, and then updates system.
 ./update.sh
 Should be run as root, to allow for updating of system.
 
-### Example:
 ![alt text](https://github.com/stakor/img/blob/master/update2.gif "Update.sh")
+
+![alt text](https://github.com/stakor/img/blob/master/logo.png "Update.sh Logo")
