@@ -2,7 +2,7 @@
 Update all the things...
 
 ### Blog Post:
-Coming Soon
+http://chrisstakor.com/2019/02/update-sh/
 
 ### Author:
 Chris Stakor
