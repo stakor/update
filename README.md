@@ -2,7 +2,7 @@
 Update all the things...
 
 ### Blog Post:
-<Coming Soon>
+Coming Soon
 
 ### Author:
 Chris Stakor
@@ -16,7 +16,9 @@ Nothing fancy. Just updates repositories, and then updates system.
 ### Usage:
 
 ./update.sh
+
 Should be run as root, to allow for updating of system.
+
 
 ![alt text](https://github.com/stakor/img/blob/master/update2.gif "Update.sh")
 
